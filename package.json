@@ -1,0 +1,7 @@
+{
+  "dependencies": {
+    "loader-utils": "^3.2.0",
+    "mime-types": "^2.1.35",
+    "schema-utils": "^4.0.0"
+  }
+}
